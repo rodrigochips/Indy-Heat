@@ -1,0 +1,3478 @@
+fileFormatVersion: 2
+guid: 8227c225267664f48b01d0daff5685a7
+timeCreated: 1526684949
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: carros_1
+    21300002: carros_2
+    21300004: carros_3
+    21300006: carros_4
+    21300008: carros_5
+    21300010: carros_6
+    21300012: carros_7
+    21300014: carros_8
+    21300016: carros_9
+    21300018: carros_10
+    21300020: carros_11
+    21300022: carros_12
+    21300024: carros_13
+    21300026: carros_14
+    21300028: carros_15
+    21300030: carros_16
+    21300032: carros_17
+    21300034: carros_18
+    21300036: carros_19
+    21300038: carros_20
+    21300040: carros_21
+    21300042: carros_22
+    21300044: carros_23
+    21300046: carros_24
+    21300048: carros_25
+    21300050: carros_26
+    21300052: carros_27
+    21300054: carros_28
+    21300056: carros_29
+    21300058: carros_30
+    21300060: carros_31
+    21300062: carros_32
+    21300064: carros_33
+    21300066: carros_34
+    21300068: carros_35
+    21300070: carros_36
+    21300072: carros_37
+    21300074: carros_38
+    21300076: carros_39
+    21300078: carros_40
+    21300080: carros_41
+    21300082: carros_42
+    21300084: carros_43
+    21300086: carros_44
+    21300088: carros_45
+    21300090: carros_46
+    21300092: carros_47
+    21300094: carros_48
+    21300096: carros_49
+    21300098: carros_50
+    21300100: carros_51
+    21300102: carros_52
+    21300104: carros_53
+    21300106: carros_54
+    21300108: carros_55
+    21300110: carros_56
+    21300112: carros_57
+    21300114: carros_58
+    21300116: carros_59
+    21300118: carros_60
+    21300120: carros_61
+    21300122: carros_62
+    21300124: carros_63
+    21300126: carros_64
+    21300128: carros_65
+    21300130: carros_66
+    21300132: carros_67
+    21300134: carros_68
+    21300136: carros_69
+    21300138: carros_70
+    21300140: carros_71
+    21300142: carros_72
+    21300144: carros_73
+    21300146: carros_74
+    21300148: carros_75
+    21300150: carros_76
+    21300152: carros_77
+    21300154: carros_78
+    21300156: carros_79
+    21300158: carros_80
+    21300160: carros_81
+    21300162: carros_82
+    21300164: carros_83
+    21300166: carros_84
+    21300168: carros_85
+    21300170: carros_86
+    21300172: carros_87
+    21300174: carros_88
+    21300176: carros_89
+    21300178: carros_90
+    21300180: carros_91
+    21300182: carros_92
+    21300184: carros_93
+    21300186: carros_94
+    21300188: carros_95
+    21300190: carros_96
+    21300192: carros_97
+    21300194: carros_98
+    21300196: carros_99
+    21300198: carros_100
+    21300200: carros_101
+    21300202: carros_102
+    21300204: carros_103
+    21300206: carros_104
+    21300208: carros_105
+    21300210: carros_106
+    21300212: carros_107
+    21300214: carros_108
+    21300216: carros_109
+    21300218: carros_110
+    21300220: carros_111
+    21300222: carros_112
+    21300224: carros_113
+    21300226: carros_114
+    21300228: carros_115
+    21300230: carros_116
+    21300232: carros_117
+    21300234: carros_118
+    21300236: carros_119
+    21300238: carros_120
+    21300240: carros_121
+    21300242: carros_122
+    21300244: carros_123
+    21300246: carros_124
+    21300248: carros_125
+    21300250: carros_126
+    21300252: carros_127
+    21300254: carros_128
+    21300256: carros_129
+    21300258: carros_130
+    21300260: carros_131
+    21300262: carros_132
+    21300264: carros_133
+    21300266: carros_134
+    21300268: carros_135
+    21300270: carros_136
+    21300272: carros_137
+    21300274: carros_138
+    21300276: carros_139
+    21300278: carros_140
+    21300280: carros_141
+    21300282: carros_142
+    21300284: carros_143
+    21300286: carros_144
+    21300288: carros_145
+    21300290: carros_146
+    21300292: carros_147
+    21300294: carros_148
+    21300296: carros_149
+    21300298: carros_150
+    21300300: carros_151
+    21300302: carros_152
+    21300304: carros_153
+    21300306: carros_154
+    21300308: carros_155
+    21300310: carros_156
+    21300312: carros_157
+    21300314: carros_158
+    21300316: carros_159
+    21300318: carros_160
+    21300320: carros_167
+    21300322: carros_168
+    21300324: carros_169
+    21300326: carros_170
+    21300328: carros_171
+    21300330: carros_172
+    21300332: carros_173
+    21300334: carros_174
+    21300336: carros_175
+    21300338: carros_176
+    21300340: carros_177
+    21300342: carros_178
+    21300344: carros_179
+    21300346: carros_180
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: carros_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 206
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 206
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 206
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 206
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 206
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 206
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 206
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 206
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 206
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 206
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 206
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 206
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 206
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 206
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 206
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 206
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 206
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 206
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 206
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 206
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 206
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 206
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_25
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 206
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 206
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_28
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 206
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 206
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_30
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 206
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 206
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 206
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 191
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 191
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 191
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 191
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 191
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 191
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 191
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 191
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 191
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_48
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 191
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_49
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 191
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_50
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 191
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_51
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 191
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_52
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 191
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_53
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 191
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_54
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 191
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_56
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 191
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 191
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_58
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 191
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_59
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 191
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_60
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 191
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 191
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_62
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 191
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_63
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 191
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_64
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 191
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 176
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_66
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 176
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 176
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 176
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 176
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 176
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_71
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 176
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 176
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_73
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 176
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 176
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 176
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_76
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 176
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_77
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 176
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 176
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_79
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 176
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_80
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 176
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_81
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 176
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_82
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 176
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_83
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 176
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_84
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 176
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_85
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 176
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_86
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 176
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_87
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 176
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_88
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 176
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_89
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 176
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_90
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 176
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_91
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 176
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_92
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 176
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_93
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 176
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_94
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 176
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_95
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 176
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_96
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 176
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_97
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 162
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_98
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 162
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_99
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 162
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_100
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 162
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_101
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_102
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 162
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_103
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 162
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_104
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 162
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_105
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 162
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_106
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 162
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_107
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 162
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_108
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 162
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_109
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 162
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_110
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 162
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_111
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 162
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_112
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 162
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_113
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 162
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_114
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 162
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_115
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 162
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_116
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 162
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_117
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 162
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_118
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 162
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_119
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 162
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_120
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 162
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_121
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 162
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_122
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_123
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 162
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_124
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 162
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_125
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 162
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_126
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 162
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_127
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 162
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_128
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 162
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_129
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 147
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_130
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_131
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 147
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_132
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 147
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_133
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 147
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 147
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_135
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 147
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_136
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_137
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 147
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_138
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 147
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_139
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 147
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_140
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 147
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_141
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 147
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_142
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 147
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_143
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 147
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_144
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 147
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_145
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 147
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_146
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 147
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_147
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 147
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_148
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 147
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_149
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 147
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_150
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 147
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_151
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 147
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_152
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 147
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_153
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_154
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 147
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_155
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 147
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_156
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 147
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_157
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 147
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_158
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 147
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_159
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 147
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_160
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 147
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_167
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 93
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_168
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 91
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_169
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 91
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_170
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_171
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 91
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_172
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 91
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_173
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 91
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_174
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 91
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_175
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 91
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_176
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_177
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 83
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_178
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 73
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_179
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carros_180
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 53
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 171, y: -108}
+      - {x: 171, y: -120}
+      - {x: 238, y: -120}
+      - {x: 239, y: -119}
+      - {x: 239, y: -110}
+      - {x: 232, y: -108}
+    - - {x: 171, y: -94}
+      - {x: 171, y: -105}
+      - {x: 175, y: -108}
+      - {x: 207, y: -108}
+      - {x: 207, y: -95}
+      - {x: 206, y: -94}
+    - - {x: 207, y: -94}
+      - {x: 207, y: -104}
+      - {x: 208, y: -106}
+      - {x: 220, y: -106}
+      - {x: 223, y: -99}
+      - {x: 221, y: -95}
+      - {x: 211, y: -94}
+    - - {x: -247, y: -69}
+      - {x: -248, y: -71}
+      - {x: -248, y: -73}
+      - {x: -246, y: -77}
+      - {x: -242, y: -77}
+      - {x: -240, y: -76}
+      - {x: -240, y: -72}
+      - {x: -245, y: -69}
+    - - {x: -239, y: -71}
+      - {x: -240, y: -73}
+      - {x: -240, y: -75}
+      - {x: -239, y: -77}
+      - {x: -235, y: -77}
+      - {x: -233, y: -76}
+      - {x: -233, y: -71}
+    - - {x: -229, y: -70}
+      - {x: -232, y: -70}
+      - {x: -233, y: -72}
+      - {x: -233, y: -76}
+      - {x: -231, y: -77}
+      - {x: -228, y: -77}
+      - {x: -227, y: -75}
+      - {x: -227, y: -71}
+    - - {x: -227, y: -71}
+      - {x: -227, y: -74}
+      - {x: -223, y: -77}
+      - {x: -221, y: -77}
+      - {x: -217, y: -73}
+      - {x: -218, y: -70}
+      - {x: -223, y: -68}
+    - - {x: -212, y: -67}
+      - {x: -217, y: -71}
+      - {x: -217, y: -74}
+      - {x: -213, y: -77}
+      - {x: -207, y: -77}
+      - {x: -207, y: -72}
+      - {x: -210, y: -67}
+    - - {x: -205, y: -68}
+      - {x: -207, y: -72}
+      - {x: -207, y: -76}
+      - {x: -205, y: -77}
+      - {x: -200, y: -77}
+      - {x: -198, y: -76}
+      - {x: -198, y: -73}
+      - {x: -202, y: -68}
+    - - {x: -197, y: -71}
+      - {x: -198, y: -73}
+      - {x: -198, y: -75}
+      - {x: -196, y: -77}
+      - {x: -189, y: -77}
+      - {x: -187, y: -76}
+      - {x: -187, y: -74}
+      - {x: -188, y: -71}
+    - - {x: -246, y: -67}
+      - {x: -240, y: -67}
+      - {x: -240, y: -63}
+      - {x: -243, y: -59}
+      - {x: -246, y: -59}
+      - {x: -248, y: -60}
+      - {x: -248, y: -63}
+    - - {x: -238, y: -61}
+      - {x: -240, y: -62}
+      - {x: -240, y: -66}
+      - {x: -239, y: -67}
+      - {x: -234, y: -67}
+      - {x: -233, y: -65}
+      - {x: -233, y: -62}
+      - {x: -235, y: -61}
+    - - {x: -231, y: -60}
+      - {x: -233, y: -62}
+      - {x: -233, y: -66}
+      - {x: -231, y: -67}
+      - {x: -227, y: -67}
+      - {x: -227, y: -61}
+      - {x: -228, y: -60}
+    - - {x: -227, y: -61}
+      - {x: -227, y: -64}
+      - {x: -223, y: -67}
+      - {x: -221, y: -67}
+      - {x: -217, y: -63}
+      - {x: -218, y: -60}
+      - {x: -223, y: -58}
+    - - {x: -217, y: -65}
+      - {x: -216, y: -66}
+      - {x: -210, y: -67}
+      - {x: -207, y: -66}
+      - {x: -207, y: -63}
+      - {x: -208, y: -58}
+      - {x: -209, y: -57}
+      - {x: -215, y: -57}
+      - {x: -217, y: -61}
+    - - {x: -207, y: -62}
+      - {x: -207, y: -66}
+      - {x: -204, y: -67}
+      - {x: -200, y: -67}
+      - {x: -198, y: -66}
+      - {x: -198, y: -63}
+      - {x: -202, y: -58}
+      - {x: -203, y: -58}
+    - - {x: -197, y: -61}
+      - {x: -198, y: -63}
+      - {x: -198, y: -65}
+      - {x: -196, y: -67}
+      - {x: -189, y: -67}
+      - {x: -187, y: -66}
+      - {x: -187, y: -64}
+      - {x: -188, y: -61}
+    - - {x: -247, y: -49}
+      - {x: -248, y: -51}
+      - {x: -248, y: -55}
+      - {x: -244, y: -57}
+      - {x: -241, y: -57}
+      - {x: -240, y: -55}
+      - {x: -240, y: -52}
+      - {x: -245, y: -49}
+    - - {x: -238, y: -51}
+      - {x: -240, y: -52}
+      - {x: -240, y: -55}
+      - {x: -239, y: -57}
+      - {x: -235, y: -57}
+      - {x: -233, y: -56}
+      - {x: -233, y: -53}
+      - {x: -234, y: -51}
+    - - {x: -231, y: -50}
+      - {x: -233, y: -52}
+      - {x: -233, y: -55}
+      - {x: -231, y: -57}
+      - {x: -229, y: -57}
+      - {x: -227, y: -55}
+      - {x: -227, y: -52}
+      - {x: -229, y: -50}
+    - - {x: -227, y: -51}
+      - {x: -227, y: -54}
+      - {x: -223, y: -57}
+      - {x: -221, y: -57}
+      - {x: -217, y: -53}
+      - {x: -218, y: -50}
+      - {x: -223, y: -48}
+    - - {x: -217, y: -56}
+      - {x: -214, y: -57}
+      - {x: -208, y: -57}
+      - {x: -207, y: -56}
+      - {x: -207, y: -53}
+      - {x: -208, y: -48}
+      - {x: -209, y: -47}
+      - {x: -215, y: -47}
+      - {x: -217, y: -49}
+    - - {x: -207, y: -52}
+      - {x: -207, y: -56}
+      - {x: -204, y: -57}
+      - {x: -200, y: -57}
+      - {x: -198, y: -56}
+      - {x: -198, y: -53}
+      - {x: -202, y: -48}
+      - {x: -203, y: -48}
+    - - {x: -197, y: -51}
+      - {x: -198, y: -53}
+      - {x: -198, y: -55}
+      - {x: -196, y: -57}
+      - {x: -188, y: -57}
+      - {x: -187, y: -55}
+      - {x: -187, y: -52}
+      - {x: -189, y: -51}
+    - - {x: -247, y: -39}
+      - {x: -248, y: -41}
+      - {x: -248, y: -45}
+      - {x: -244, y: -47}
+      - {x: -241, y: -47}
+      - {x: -240, y: -45}
+      - {x: -240, y: -42}
+      - {x: -245, y: -39}
+    - - {x: -238, y: -41}
+      - {x: -240, y: -42}
+      - {x: -240, y: -45}
+      - {x: -239, y: -47}
+      - {x: -235, y: -47}
+      - {x: -233, y: -46}
+      - {x: -233, y: -43}
+      - {x: -234, y: -41}
+    - - {x: -231, y: -40}
+      - {x: -233, y: -42}
+      - {x: -233, y: -45}
+      - {x: -231, y: -47}
+      - {x: -229, y: -47}
+      - {x: -227, y: -45}
+      - {x: -227, y: -42}
+      - {x: -229, y: -40}
+    - - {x: -227, y: -41}
+      - {x: -227, y: -44}
+      - {x: -223, y: -47}
+      - {x: -221, y: -47}
+      - {x: -217, y: -43}
+      - {x: -218, y: -40}
+      - {x: -223, y: -38}
+    - - {x: -217, y: -46}
+      - {x: -214, y: -47}
+      - {x: -208, y: -47}
+      - {x: -207, y: -46}
+      - {x: -207, y: -43}
+      - {x: -208, y: -38}
+      - {x: -209, y: -37}
+      - {x: -215, y: -37}
+      - {x: -217, y: -39}
+    - - {x: -207, y: -42}
+      - {x: -207, y: -46}
+      - {x: -204, y: -47}
+      - {x: -200, y: -47}
+      - {x: -198, y: -46}
+      - {x: -198, y: -43}
+      - {x: -202, y: -38}
+      - {x: -203, y: -38}
+    - - {x: -197, y: -41}
+      - {x: -198, y: -43}
+      - {x: -198, y: -45}
+      - {x: -196, y: -47}
+      - {x: -188, y: -47}
+      - {x: -187, y: -45}
+      - {x: -187, y: -42}
+      - {x: -189, y: -41}
+    - - {x: -106, y: -28}
+      - {x: -110, y: -28}
+      - {x: -115, y: -33}
+      - {x: -115, y: -36}
+      - {x: -112, y: -39}
+      - {x: -107, y: -39}
+      - {x: -104, y: -37}
+      - {x: -103, y: -34}
+      - {x: -103, y: -31}
+    - - {x: -100, y: -28}
+      - {x: -103, y: -29}
+      - {x: -103, y: -35}
+      - {x: -100, y: -39}
+      - {x: -93, y: -39}
+      - {x: -91, y: -34}
+      - {x: -91, y: -28}
+    - - {x: -90, y: -27}
+      - {x: -91, y: -29}
+      - {x: -91, y: -34}
+      - {x: -88, y: -39}
+      - {x: -83, y: -39}
+      - {x: -79, y: -38}
+      - {x: -79, y: -27}
+    - - {x: -78, y: -27}
+      - {x: -79, y: -28}
+      - {x: -79, y: -35}
+      - {x: -78, y: -39}
+      - {x: -72, y: -39}
+      - {x: -68, y: -37}
+      - {x: -68, y: -29}
+      - {x: -69, y: -27}
+    - - {x: 19, y: -32}
+      - {x: 16, y: -35}
+      - {x: 16, y: -37}
+      - {x: 18, y: -39}
+      - {x: 20, y: -39}
+      - {x: 22, y: -37}
+      - {x: 22, y: -34}
+      - {x: 20, y: -32}
+    - - {x: 22, y: -34}
+      - {x: 22, y: -36}
+      - {x: 23, y: -39}
+      - {x: 28, y: -39}
+      - {x: 30, y: -38}
+      - {x: 30, y: -35}
+      - {x: 26, y: -31}
+      - {x: 25, y: -31}
+    - - {x: 33, y: -30}
+      - {x: 30, y: -33}
+      - {x: 30, y: -35}
+      - {x: 34, y: -39}
+      - {x: 36, y: -39}
+      - {x: 39, y: -36}
+      - {x: 39, y: -34}
+      - {x: 35, y: -30}
+    - - {x: 42, y: -30}
+      - {x: 39, y: -33}
+      - {x: 39, y: -36}
+      - {x: 42, y: -39}
+      - {x: 47, y: -39}
+      - {x: 48, y: -36}
+      - {x: 48, y: -32}
+      - {x: 45, y: -30}
+    - - {x: 51, y: -28}
+      - {x: 48, y: -29}
+      - {x: 48, y: -34}
+      - {x: 50, y: -39}
+      - {x: 58, y: -39}
+      - {x: 58, y: -30}
+      - {x: 57, y: -28}
+    - - {x: 58, y: -37}
+      - {x: 63, y: -39}
+      - {x: 67, y: -39}
+      - {x: 69, y: -38}
+      - {x: 69, y: -30}
+      - {x: 68, y: -28}
+      - {x: 63, y: -28}
+      - {x: 58, y: -29}
+    - - {x: 69, y: -35}
+      - {x: 72, y: -39}
+      - {x: 76, y: -39}
+      - {x: 79, y: -38}
+      - {x: 79, y: -33}
+      - {x: 78, y: -30}
+      - {x: 73, y: -29}
+      - {x: 69, y: -34}
+    - - {x: 156, y: -32}
+      - {x: 153, y: -35}
+      - {x: 153, y: -37}
+      - {x: 155, y: -39}
+      - {x: 157, y: -39}
+      - {x: 159, y: -37}
+      - {x: 159, y: -34}
+      - {x: 157, y: -32}
+    - - {x: 159, y: -34}
+      - {x: 159, y: -36}
+      - {x: 160, y: -39}
+      - {x: 165, y: -39}
+      - {x: 167, y: -38}
+      - {x: 167, y: -35}
+      - {x: 163, y: -31}
+      - {x: 162, y: -31}
+    - - {x: 172, y: -28}
+      - {x: 167, y: -33}
+      - {x: 167, y: -34}
+      - {x: 172, y: -39}
+      - {x: 173, y: -39}
+      - {x: 178, y: -34}
+      - {x: 178, y: -33}
+      - {x: 173, y: -28}
+    - - {x: -247, y: -29}
+      - {x: -248, y: -31}
+      - {x: -248, y: -35}
+      - {x: -244, y: -37}
+      - {x: -241, y: -37}
+      - {x: -240, y: -35}
+      - {x: -240, y: -32}
+      - {x: -245, y: -29}
+    - - {x: -238, y: -31}
+      - {x: -240, y: -32}
+      - {x: -240, y: -35}
+      - {x: -239, y: -37}
+      - {x: -235, y: -37}
+      - {x: -233, y: -36}
+      - {x: -233, y: -33}
+      - {x: -234, y: -31}
+    - - {x: -231, y: -30}
+      - {x: -233, y: -32}
+      - {x: -233, y: -35}
+      - {x: -231, y: -37}
+      - {x: -229, y: -37}
+      - {x: -227, y: -35}
+      - {x: -227, y: -32}
+      - {x: -229, y: -30}
+    - - {x: -227, y: -31}
+      - {x: -227, y: -34}
+      - {x: -223, y: -37}
+      - {x: -221, y: -37}
+      - {x: -217, y: -33}
+      - {x: -218, y: -30}
+      - {x: -223, y: -28}
+    - - {x: -217, y: -36}
+      - {x: -214, y: -37}
+      - {x: -208, y: -37}
+      - {x: -207, y: -36}
+      - {x: -207, y: -33}
+      - {x: -208, y: -28}
+      - {x: -209, y: -27}
+      - {x: -215, y: -27}
+      - {x: -217, y: -29}
+    - - {x: -207, y: -32}
+      - {x: -207, y: -36}
+      - {x: -204, y: -37}
+      - {x: -200, y: -37}
+      - {x: -198, y: -36}
+      - {x: -198, y: -33}
+      - {x: -202, y: -28}
+      - {x: -203, y: -28}
+    - - {x: -197, y: -31}
+      - {x: -198, y: -33}
+      - {x: -198, y: -35}
+      - {x: -196, y: -37}
+      - {x: -188, y: -37}
+      - {x: -187, y: -35}
+      - {x: -187, y: -32}
+      - {x: -189, y: -31}
+    - - {x: 54, y: -15}
+      - {x: 25, y: -15}
+      - {x: 25, y: -26}
+      - {x: 26, y: -27}
+      - {x: 69, y: -27}
+      - {x: 71, y: -20}
+      - {x: 69, y: -17}
+      - {x: 65, y: -16}
+    - - {x: 169, y: -13}
+      - {x: 148, y: -13}
+      - {x: 148, y: -25}
+      - {x: 154, y: -27}
+      - {x: 172, y: -27}
+      - {x: 181, y: -24}
+      - {x: 182, y: -20}
+      - {x: 182, y: -17}
+      - {x: 177, y: -14}
+    - - {x: -236, y: -14}
+      - {x: -236, y: -26}
+      - {x: -203, y: -26}
+      - {x: -200, y: -25}
+      - {x: -200, y: -19}
+      - {x: -202, y: -14}
+    - - {x: -95, y: -14}
+      - {x: -104, y: -14}
+      - {x: -104, y: -24}
+      - {x: -103, y: -26}
+      - {x: -81, y: -26}
+      - {x: -80, y: -24}
+      - {x: -80, y: -18}
+      - {x: -83, y: -15}
+    - - {x: -233, y: 32}
+      - {x: -244, y: 31}
+      - {x: -248, y: 23}
+      - {x: -248, y: 17}
+      - {x: -120, y: 17}
+      - {x: -120, y: 32}
+    - - {x: 231, y: 30}
+      - {x: 220, y: 32}
+      - {x: 213, y: 28}
+      - {x: 208, y: 32}
+      - {x: 204, y: 32}
+      - {x: 196, y: 28}
+      - {x: 190, y: 32}
+      - {x: 186, y: 32}
+      - {x: 177, y: 28}
+      - {x: 173, y: 34}
+      - {x: 170, y: 33}
+      - {x: 165, y: 31}
+      - {x: 167, y: 32}
+      - {x: 170, y: 36}
+      - {x: 178, y: 32}
+      - {x: 184, y: 31}
+      - {x: 192, y: 36}
+      - {x: 196, y: 31}
+      - {x: 207, y: 34}
+      - {x: 216, y: 31}
+      - {x: 227, y: 34}
+      - {x: 234, y: 32}
+      - {x: 244, y: 32}
+      - {x: 247, y: 40}
+      - {x: 247, y: 44}
+      - {x: 245, y: 45}
+      - {x: 240, y: 45}
+      - {x: 232, y: 43}
+      - {x: 226, y: 46}
+      - {x: 221, y: 46}
+      - {x: 213, y: 43}
+      - {x: 208, y: 47}
+      - {x: 204, y: 47}
+      - {x: 196, y: 43}
+      - {x: 190, y: 47}
+      - {x: 186, y: 47}
+      - {x: 192, y: 50}
+      - {x: 196, y: 45}
+      - {x: 207, y: 48}
+      - {x: 216, y: 45}
+      - {x: 227, y: 48}
+      - {x: 234, y: 46}
+      - {x: 244, y: 46}
+      - {x: 247, y: 54}
+      - {x: 247, y: 59}
+      - {x: 246, y: 60}
+      - {x: 231, y: 59}
+      - {x: 220, y: 61}
+      - {x: 213, y: 57}
+      - {x: 208, y: 61}
+      - {x: 204, y: 61}
+      - {x: 196, y: 57}
+      - {x: 190, y: 61}
+      - {x: 186, y: 61}
+      - {x: 177, y: 57}
+      - {x: 173, y: 63}
+      - {x: 170, y: 62}
+      - {x: 165, y: 60}
+      - {x: 167, y: 61}
+      - {x: 170, y: 65}
+      - {x: 178, y: 61}
+      - {x: 184, y: 60}
+      - {x: 192, y: 65}
+      - {x: 196, y: 60}
+      - {x: 207, y: 63}
+      - {x: 216, y: 60}
+      - {x: 227, y: 63}
+      - {x: 234, y: 61}
+      - {x: 244, y: 61}
+      - {x: 247, y: 69}
+      - {x: 247, y: 74}
+      - {x: 246, y: 75}
+      - {x: 231, y: 74}
+      - {x: 220, y: 76}
+      - {x: 213, y: 72}
+      - {x: 208, y: 76}
+      - {x: 204, y: 76}
+      - {x: 196, y: 72}
+      - {x: 190, y: 76}
+      - {x: 186, y: 76}
+      - {x: 177, y: 72}
+      - {x: 173, y: 78}
+      - {x: 170, y: 77}
+      - {x: 165, y: 75}
+      - {x: 167, y: 76}
+      - {x: 170, y: 80}
+      - {x: 178, y: 76}
+      - {x: 184, y: 75}
+      - {x: 192, y: 80}
+      - {x: 196, y: 75}
+      - {x: 207, y: 78}
+      - {x: 216, y: 75}
+      - {x: 227, y: 78}
+      - {x: 234, y: 76}
+      - {x: 244, y: 76}
+      - {x: 247, y: 84}
+      - {x: 247, y: 89}
+      - {x: 246, y: 90}
+      - {x: 215, y: 93}
+      - {x: 110, y: 93}
+      - {x: 107, y: 92}
+      - {x: 103, y: 89}
+      - {x: 103, y: 87}
+      - {x: 103, y: 93}
+      - {x: -112, y: 93}
+      - {x: -122, y: 88}
+      - {x: -122, y: 77}
+      - {x: -120, y: 75}
+      - {x: -98, y: 76}
+      - {x: -93, y: 80}
+      - {x: -88, y: 76}
+      - {x: -65, y: 76}
+      - {x: -58, y: 80}
+      - {x: -51, y: 75}
+      - {x: -41, y: 77}
+      - {x: -33, y: 75}
+      - {x: -19, y: 79}
+      - {x: -15, y: 75}
+      - {x: 20, y: 76}
+      - {x: 28, y: 74}
+      - {x: 35, y: 78}
+      - {x: 44, y: 76}
+      - {x: 76, y: 76}
+      - {x: 81, y: 79}
+      - {x: 81, y: 78}
+      - {x: 79, y: 73}
+      - {x: 76, y: 76}
+      - {x: 71, y: 76}
+      - {x: 66, y: 73}
+      - {x: 60, y: 76}
+      - {x: 57, y: 76}
+      - {x: 52, y: 74}
+      - {x: 49, y: 73}
+      - {x: 40, y: 77}
+      - {x: 33, y: 73}
+      - {x: 20, y: 75}
+      - {x: 7, y: 74}
+      - {x: -23, y: 75}
+      - {x: -35, y: 74}
+      - {x: -45, y: 76}
+      - {x: -54, y: 72}
+      - {x: -58, y: 76}
+      - {x: -61, y: 76}
+      - {x: -80, y: 75}
+      - {x: -96, y: 77}
+      - {x: -104, y: 72}
+      - {x: -106, y: 74}
+      - {x: -109, y: 75}
+      - {x: -113, y: 75}
+      - {x: -122, y: 69}
+      - {x: -122, y: 65}
+      - {x: -120, y: 60}
+      - {x: -98, y: 61}
+      - {x: -93, y: 65}
+      - {x: -88, y: 61}
+      - {x: -65, y: 61}
+      - {x: -58, y: 65}
+      - {x: -51, y: 60}
+      - {x: -41, y: 62}
+      - {x: -33, y: 60}
+      - {x: -19, y: 64}
+      - {x: -15, y: 60}
+      - {x: 20, y: 61}
+      - {x: 28, y: 59}
+      - {x: 35, y: 63}
+      - {x: 44, y: 61}
+      - {x: 76, y: 61}
+      - {x: 81, y: 64}
+      - {x: 81, y: 63}
+      - {x: 79, y: 58}
+      - {x: 76, y: 61}
+      - {x: 71, y: 61}
+      - {x: 66, y: 58}
+      - {x: 60, y: 61}
+      - {x: 57, y: 61}
+      - {x: 52, y: 59}
+      - {x: 49, y: 58}
+      - {x: 40, y: 62}
+      - {x: 33, y: 58}
+      - {x: 20, y: 60}
+      - {x: 7, y: 59}
+      - {x: -23, y: 60}
+      - {x: -35, y: 59}
+      - {x: -45, y: 61}
+      - {x: -54, y: 57}
+      - {x: -58, y: 61}
+      - {x: -61, y: 61}
+      - {x: -80, y: 60}
+      - {x: -96, y: 62}
+      - {x: -104, y: 57}
+      - {x: -106, y: 59}
+      - {x: -109, y: 60}
+      - {x: -113, y: 60}
+      - {x: -122, y: 53}
+      - {x: -122, y: 50}
+      - {x: -119, y: 46}
+      - {x: -112, y: 46}
+      - {x: -110, y: 47}
+      - {x: -102, y: 46}
+      - {x: -98, y: 46}
+      - {x: -94, y: 51}
+      - {x: -92, y: 51}
+      - {x: -87, y: 47}
+      - {x: -81, y: 46}
+      - {x: -72, y: 50}
+      - {x: -68, y: 45}
+      - {x: -58, y: 49}
+      - {x: -51, y: 45}
+      - {x: -41, y: 47}
+      - {x: -33, y: 45}
+      - {x: -19, y: 49}
+      - {x: -15, y: 45}
+      - {x: 20, y: 46}
+      - {x: 28, y: 45}
+      - {x: 40, y: 49}
+      - {x: 44, y: 46}
+      - {x: 46, y: 46}
+      - {x: 44, y: 46}
+      - {x: 40, y: 48}
+      - {x: 33, y: 44}
+      - {x: 24, y: 46}
+      - {x: -19, y: 45}
+      - {x: -23, y: 46}
+      - {x: -35, y: 44}
+      - {x: -39, y: 46}
+      - {x: -44, y: 46}
+      - {x: -54, y: 43}
+      - {x: -58, y: 47}
+      - {x: -61, y: 47}
+      - {x: -67, y: 44}
+      - {x: -72, y: 46}
+      - {x: -80, y: 46}
+      - {x: -86, y: 42}
+      - {x: -92, y: 46}
+      - {x: -96, y: 47}
+      - {x: -99, y: 46}
+      - {x: -113, y: 46}
+      - {x: -120, y: 42}
+      - {x: -122, y: 39}
+      - {x: -122, y: 34}
+      - {x: -119, y: 32}
+      - {x: -98, y: 32}
+      - {x: -93, y: 36}
+      - {x: -88, y: 32}
+      - {x: -65, y: 32}
+      - {x: -58, y: 36}
+      - {x: -51, y: 31}
+      - {x: -41, y: 33}
+      - {x: -33, y: 31}
+      - {x: -19, y: 35}
+      - {x: -15, y: 31}
+      - {x: 20, y: 32}
+      - {x: 28, y: 30}
+      - {x: 35, y: 34}
+      - {x: 44, y: 32}
+      - {x: 76, y: 32}
+      - {x: 81, y: 35}
+      - {x: 81, y: 34}
+      - {x: 79, y: 29}
+      - {x: 76, y: 32}
+      - {x: 71, y: 32}
+      - {x: 66, y: 29}
+      - {x: 60, y: 32}
+      - {x: 57, y: 32}
+      - {x: 52, y: 30}
+      - {x: 49, y: 29}
+      - {x: 40, y: 33}
+      - {x: 33, y: 29}
+      - {x: 20, y: 31}
+      - {x: 7, y: 30}
+      - {x: -23, y: 31}
+      - {x: -35, y: 30}
+      - {x: -45, y: 32}
+      - {x: -54, y: 28}
+      - {x: -58, y: 32}
+      - {x: -61, y: 32}
+      - {x: -80, y: 31}
+      - {x: -96, y: 33}
+      - {x: -104, y: 28}
+      - {x: -106, y: 30}
+      - {x: -109, y: 31}
+      - {x: -113, y: 31}
+      - {x: -122, y: 25}
+      - {x: -122, y: 17}
+      - {x: 247, y: 17}
+      - {x: 247, y: 30}
+      - {x: 246, y: 31}
+    - - {x: -129, y: 46}
+      - {x: -133, y: 42}
+      - {x: -134, y: 43}
+      - {x: -138, y: 46}
+      - {x: -142, y: 46}
+      - {x: -146, y: 43}
+      - {x: -146, y: 44}
+      - {x: -145, y: 46}
+      - {x: -126, y: 46}
+      - {x: -123, y: 49}
+      - {x: -120, y: 55}
+      - {x: -120, y: 59}
+      - {x: -123, y: 61}
+      - {x: -232, y: 61}
+      - {x: -244, y: 60}
+      - {x: -248, y: 51}
+      - {x: -248, y: 47}
+      - {x: -245, y: 43}
+      - {x: -230, y: 46}
+      - {x: -215, y: 45}
+      - {x: -210, y: 49}
+      - {x: -205, y: 46}
+      - {x: -187, y: 46}
+      - {x: -190, y: 46}
+      - {x: -202, y: 44}
+      - {x: -208, y: 46}
+      - {x: -216, y: 44}
+      - {x: -226, y: 45}
+      - {x: -242, y: 43}
+      - {x: -248, y: 41}
+      - {x: -248, y: 32}
+      - {x: -122, y: 32}
+      - {x: -120, y: 41}
+      - {x: -120, y: 43}
+      - {x: -124, y: 46}
+    - - {x: -233, y: 76}
+      - {x: -244, y: 75}
+      - {x: -248, y: 67}
+      - {x: -248, y: 61}
+      - {x: -120, y: 61}
+      - {x: -120, y: 76}
+    - - {x: -233, y: 91}
+      - {x: -244, y: 90}
+      - {x: -248, y: 82}
+      - {x: -248, y: 76}
+      - {x: -120, y: 76}
+      - {x: -120, y: 91}
+    - - {x: -21, y: 118}
+      - {x: -22, y: 115}
+      - {x: -22, y: 106}
+      - {x: 6, y: 106}
+      - {x: 6, y: 113}
+      - {x: 4, y: 118}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
