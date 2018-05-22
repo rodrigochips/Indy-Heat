@@ -165,7 +165,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 0.27
+  orthographic size: 1.04
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -204,6 +204,7 @@ GameObject:
   - component: {fileID: 1888284872}
   - component: {fileID: 1888284871}
   - component: {fileID: 1888284870}
+  - component: {fileID: 1888284873}
   m_Layer: 0
   m_Name: carros_1
   m_TagString: Untagged
@@ -218,7 +219,7 @@ Animator:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1888284869}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 60245be6f14ad7c4f8ad9c7be0941c2f, type: 2}
   m_CullingMode: 0
@@ -285,3 +286,14 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1888284873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1888284869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 644ed8c570101d649a5ef62b6cb48d6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
