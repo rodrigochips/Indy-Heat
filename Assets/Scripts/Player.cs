@@ -5,9 +5,9 @@ using UnityEngine;
 public class Player : MonoBehaviour {
 
     float x=0;
-    float y=1;
+    float y=0;
     float r = 0;
-    float xRotate = 0f;
+    public float xRotate = 0f;
     public SpriteRenderer myImage;
     public Texture2D texture;
     public Sprite[] redCar;
@@ -16,7 +16,8 @@ public class Player : MonoBehaviour {
         int i = 0;
         redCar = Resources.LoadAll<Sprite>(texture.name);
         //        Sprite[] redCar = Resources.LoadAll<Sprite>("carros/carros_");
-        myImage.sprite = redCar[5];
+        myImage.sprite = redCar[0];
+        x = -1;
     }
 	
 	// Update is called once per frame
@@ -32,36 +33,30 @@ public class Player : MonoBehaviour {
         }
         if (Input.GetKey("left"))
         {
-            xRotate += Time.fixedDeltaTime;
+            xRotate -= Time.fixedDeltaTime * 25;
+            if (xRotate <= 0)
+                xRotate = 359;
             Debug.Log("Left key"+ Time.fixedTime+" AND "+ Time.fixedDeltaTime);
-            r = Mathf.Cos(xRotate);
-            Debug.Log(r);
+            x = Mathf.Cos(xRotate);
+            y = Mathf.Sin(xRotate);
+            myImage.sprite = redCar[(int)(xRotate / 11.2f)];
         }
         if (Input.GetKey("right"))
         {
-            xRotate += Time.fixedDeltaTime;
-            if (xRotate >= 3)
+            xRotate += Time.fixedDeltaTime * 25;
+            if (xRotate >= 359)
                 xRotate = 0;
-            //Debug.Log();
-            r = Mathf.Cos(xRotate);
-            Debug.Log(r+" - "+((int)((r + 1) * 16))+ " AND " + Time.fixedDeltaTime+ " xRotate "+ xRotate);
-            //r == 0;
-            //ID = 0;
-            //r == 0.5;
-            //ID = 7;
-            //r == 1;
-            //ID == 15;
-            //r == 2;
-            //ID == 31;
-            //(r + 1) * x = 15;
-            //(r + 1) = 15 / x;
-            //15 / (r + 1) = x;
-            myImage.sprite = redCar[((int)((r + 1) * 16))];
-   
+            x = Mathf.Cos(xRotate);
+            y = Mathf.Sin(xRotate);
+            Debug.Log("Angle: " + xRotate + " X:" + x + " , Y:" + y);
+            myImage.sprite = redCar[(int)(xRotate/11.2f)];
         }
 
         if (Input.GetButton("Accelerate"))
-            transform.position += new Vector3(x,y,0) * 0.01F;
+        {
+            transform.position += new Vector3(x, y, 0) * 0.01F;
+            Debug.Log("Angle: "+xRotate+" ID: " + (int)(xRotate / 32) + " X:"+x+" , Y:"+y);
+        }
         
         if (Input.GetButton("Turbo"))
             print("Turbo key");
