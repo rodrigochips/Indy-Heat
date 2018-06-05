@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{81994494-044B-75EF-5EA8-51E5E93D0F9F}</ProjectGuid>
+    <ProjectGuid>{0997AB1A-BE91-8267-678A-FA4326781678}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,6 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Rotation.cs" />
+     <Compile Include="Assets\Scripts\AI_Player.cs" />
+     <Compile Include="Assets\Scripts\DriveVision.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <None Include="Assets\extra\importantStuff.txt" />
  <Reference Include="UnityEngine.UI">

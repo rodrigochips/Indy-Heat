@@ -8,9 +8,16 @@ public class Player : MonoBehaviour {
     float y=0;
     float r = 0;
     public float xRotate = 0f;
+	public float rotationSpeed = 50f;
     public SpriteRenderer myImage;
     public Texture2D texture;
     public Sprite[] redCar;
+	float fTurboTimer = 0;
+	float fTurboBoost = 10;
+	public GameObject LeftEye;
+	public GameObject RightEye;
+
+
     // Use this for initialization
     void Start () {
         int i = 0;
@@ -18,6 +25,13 @@ public class Player : MonoBehaviour {
         //        Sprite[] redCar = Resources.LoadAll<Sprite>("carros/carros_");
         myImage.sprite = redCar[0];
         x = -1;
+		xRotate = 180;
+        x = Mathf.Cos((xRotate * Mathf.PI)/180)*-1;
+        y = Mathf.Sin((xRotate * Mathf.PI)/180);
+        myImage.sprite = redCar[(int)(xRotate / 11.25f)];
+		Debug.Log("MyPos: "+transform.position+" X: "+x+", Y: "+y);
+		LeftEye.transform.position = new Vector3(x*0.15f, y*0.15f , LeftEye.transform.position.z );
+		RightEye.transform.position = new Vector3(x*0.15f, y*0.15f, RightEye.transform.position.z );
     }
 	
 	// Update is called once per frame
@@ -33,33 +47,57 @@ public class Player : MonoBehaviour {
         }
         if (Input.GetKey("left"))
         {
-            xRotate -= Time.fixedDeltaTime * 25;
-            if (xRotate <= 0)
-                xRotate = 359;
-            Debug.Log("Left key"+ Time.fixedTime+" AND "+ Time.fixedDeltaTime);
-            x = Mathf.Cos(xRotate);
-            y = Mathf.Sin(xRotate);
-            myImage.sprite = redCar[(int)(xRotate / 11.2f)];
+			TurnLeft();
         }
         if (Input.GetKey("right"))
         {
-            xRotate += Time.fixedDeltaTime * 25;
-            if (xRotate >= 359)
-                xRotate = 0;
-            x = Mathf.Cos(xRotate);
-            y = Mathf.Sin(xRotate);
-            Debug.Log("Angle: " + xRotate + " X:" + x + " , Y:" + y);
-            myImage.sprite = redCar[(int)(xRotate/11.2f)];
+			TurnRight();
         }
 
         if (Input.GetButton("Accelerate"))
         {
             transform.position += new Vector3(x, y, 0) * 0.01F;
-            Debug.Log("Angle: "+xRotate+" ID: " + (int)(xRotate / 32) + " X:"+x+" , Y:"+y);
         }
         
         if (Input.GetButton("Turbo"))
-            print("Turbo key");
+        {
+			if(Time.time > fTurboTimer)
+			{
+				StartCoroutine(UseTurbo(fTurboBoost));
+				fTurboTimer = Time.time + 1f;
+			}
+        }
         
+	}
+
+	public void TurnRight()
+	{
+		    xRotate += Time.fixedDeltaTime * rotationSpeed;
+            if (xRotate > 359.9f)
+                xRotate = 0;
+            x = Mathf.Cos((xRotate * Mathf.PI)/180)*-1;
+            y = Mathf.Sin((xRotate * Mathf.PI)/180);
+            myImage.sprite = redCar[(int)(xRotate / 11.25f)];
+            Debug.Log("Angle: "+xRotate+" ID: " + (int)(xRotate / 32) + " X:"+x+" , Y:"+y);
+
+	} 
+
+	public void TurnLeft()
+	{
+            xRotate -= Time.fixedDeltaTime * rotationSpeed;
+            if (xRotate < 0)
+                xRotate = 359.9f;
+            x = Mathf.Cos((xRotate * Mathf.PI)/180)*-1;
+            y = Mathf.Sin((xRotate * Mathf.PI)/180);
+            myImage.sprite = redCar[(int)(xRotate / 11.25f)];
+            Debug.Log("Angle: "+xRotate+" ID: " + (int)(xRotate / 32) + " X:"+x+" , Y:"+y);
+	}
+
+	IEnumerator UseTurbo(float loops)
+	{
+		for(int i = 0; i < loops; i++){
+			transform.position += new Vector3(x, y, 0) * 0.01F;
+			yield return new WaitForSeconds(0);
+		}
 	}
 }
