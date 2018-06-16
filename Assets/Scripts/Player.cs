@@ -78,7 +78,7 @@ public class Player : MonoBehaviour {
             x = Mathf.Cos((xRotate * Mathf.PI)/180)*-1;
             y = Mathf.Sin((xRotate * Mathf.PI)/180);
             myImage.sprite = redCar[(int)(xRotate / 11.25f)];
-            Debug.Log("Angle: "+xRotate+" ID: " + (int)(xRotate / 32) + " X:"+x+" , Y:"+y);
+            //Debug.Log("Angle: "+xRotate+" ID: " + (int)(xRotate / 32) + " X:"+x+" , Y:"+y);
 
 	} 
 
@@ -90,7 +90,7 @@ public class Player : MonoBehaviour {
             x = Mathf.Cos((xRotate * Mathf.PI)/180)*-1;
             y = Mathf.Sin((xRotate * Mathf.PI)/180);
             myImage.sprite = redCar[(int)(xRotate / 11.25f)];
-            Debug.Log("Angle: "+xRotate+" ID: " + (int)(xRotate / 32) + " X:"+x+" , Y:"+y);
+            //Debug.Log("Angle: "+xRotate+" ID: " + (int)(xRotate / 32) + " X:"+x+" , Y:"+y);
 	}
 
 	IEnumerator UseTurbo(float loops)

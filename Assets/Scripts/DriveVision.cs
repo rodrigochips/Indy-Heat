@@ -29,7 +29,7 @@ public class DriveVision : MonoBehaviour {
 
     void OnTriggerStay2D(Collider2D other)
     {
-        Debug.Log("OnTriggerStay2D "+gameObject.name+" - "+other.gameObject.name);
+        //Debug.Log("OnTriggerStay2D "+gameObject.name+" - "+other.gameObject.name);
         if (other.tag == "Collider")
 		{
 			if(bAmIRight)

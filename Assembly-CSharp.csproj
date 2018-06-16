@@ -54,6 +54,8 @@
      <Compile Include="Assets\Rotation.cs" />
      <Compile Include="Assets\Scripts\AI_Player.cs" />
      <Compile Include="Assets\Scripts\DriveVision.cs" />
+     <Compile Include="Assets\Scripts\FinishlineTrigger.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <None Include="Assets\extra\importantStuff.txt" />
  <Reference Include="UnityEngine.UI">
