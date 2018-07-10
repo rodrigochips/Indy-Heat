@@ -19,6 +19,9 @@ public class FinishlineTrigger : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D col)
     {
         Debug.Log(col.gameObject.name + " : " + gameObject.name + " : " + Time.time);
-//		myGameManager.SendMessage("PlayerFinished"+col.gameObject);
+		if(gameObject.name == "Finish");
+			myGameManager.SendMessage("PlayerFinished",col.gameObject);
+		if(gameObject.name == "Start");
+			myGameManager.SendMessage("PlayerStarted",col.gameObject);
     }
 }
