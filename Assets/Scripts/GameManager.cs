@@ -18,6 +18,12 @@ using System.Collections;
 		bool canCountLap3 = false;
 		bool canCountLap4 = false;
 		bool canCountLap5 = false;
+		float ftimer1 = 0;
+		float ftimer2 = 0;
+		float ftimer3 = 0;
+		float ftimer4 = 0;
+		float ftimer5 = 0;
+
 		                               //LapCounter
 
         //Awake is always called before any Start functions
@@ -63,33 +69,38 @@ using System.Collections;
 
 		public void PlayerFinished(GameObject goCollider)
 		{
+	        Debug.Log("PlayerFinished: "+goCollider.name + " : " + gameObject.name + " : " + Time.time);
 			switch(goCollider.name)
 			{
 				case "carros_1":
-					if(canCountLap1){
+					if(canCountLap1 && ftimer1 < Time.time){
 						iLapCount1 ++;
 						canCountLap1=false;
+						ftimer1 = Time.time+0.1f;
 					}
 				break;
 				case "carros_2":
-					if(canCountLap2)
+					if(canCountLap2&& ftimer2 < Time.time)
 					{
 						iLapCount2 ++;
 						canCountLap2=false;
+						ftimer2 = Time.time+0.1f;
 					}
 				break;
 				case "carros_3":
-					if(canCountLap3)
+					if(canCountLap3 && ftimer3 < Time.time)
 					{
 						iLapCount3 ++;
 						canCountLap3=false;
+						ftimer3 = Time.time+0.1f;
 					}
 				break;
 				case "carros_4":
-					if(canCountLap4)
+					if(canCountLap4 && ftimer4 < Time.time)
 					{
 						iLapCount4 ++;
 						canCountLap4=false;
+						ftimer4 = Time.time+0.1f;
 					}
 				break;
 				case "carros_5":
@@ -97,6 +108,7 @@ using System.Collections;
 					{
 						iLapCount5 ++;
 						canCountLap5=false;
+						ftimer5 = Time.time+0.1f;
 					}
 				break;
 				default:
@@ -107,6 +119,7 @@ using System.Collections;
 
 		public void PlayerStarted(GameObject goCollider)
 		{
+	        Debug.Log("PlayerStarted: "+goCollider.name + " : " + gameObject.name + " : " + Time.time);
 			switch(goCollider.name)
 			{
 				case "carros_1":
