@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 6b475ba97e24b4b1aaa503afff7d7a57
+timeCreated: 1531591946
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Digital Readout
+  fontNames:
+  - SF Digital Readout
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5378ccf01550147bb9b40b65c9844578, type: 3}
+  - {fileID: 12800000, guid: 5cea14410c0b74e7182003e38e75106a, type: 3}
+  - {fileID: 12800000, guid: 2c964fd9e4f40483ba9a44d7da81df19, type: 3}
+  - {fileID: 12800000, guid: 3de8267d4bffd42cc86adb0298df995d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
